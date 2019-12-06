@@ -1,0 +1,16 @@
+npm start -> starts the deployment server
+
+npm run build -> bundles the app into static files for production
+
+npm test -> starts the test runner
+
+npm run eject -> Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+
+Single Page Application vs Non-SPA
+
+In non-SPA, the browser sends the request to the server to render every page, whereas
+in SPA, the browser parser the server once and delivers the page requests himself.
+
+ 
